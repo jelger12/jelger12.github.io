@@ -1,0 +1,35 @@
+title: De fietsblog van Anna en Jelger
+description: > # this means to ignore newlines until "baseurl:"
+  Op deze website plaatsen we foto's en beschrijven we onze route
+permalink: ':title/'
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: #if your site has a twitter account, enter it here
+
+# Author Settings
+author: Anna en Jelger
+author-img: anna-jelger.jpg # add your photo
+about-author: Wij fietsen vanaf Nederland naar het oosten
+social-twitter: # add your Twitter handle
+social-facebook: # add your Facebook handle
+social-github:  # add your Github handle
+social-linkedin: # add your Linkedin handle
+social-email: # add your Email address
+
+# Disqus
+discus-identifier:  # add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+paginate: 8
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
