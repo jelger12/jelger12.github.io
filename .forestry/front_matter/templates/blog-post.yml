@@ -14,9 +14,12 @@ fields:
 - type: text
   name: description
   label: description
-- type: datetime
-  name: img
+- name: img
+  type: text
+  config:
+    required: false
   label: img
+  description: De afbeelding die getoond moet worden
 - type: text
   name: fig-caption
   label: fig-caption
