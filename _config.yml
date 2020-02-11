@@ -2,7 +2,7 @@ title: De fietsblog van Anna en Jelger
 description: > # this means to ignore newlines until "baseurl:"
   Op deze website plaatsen we foto's en beschrijven we onze route
 permalink: ':title/'
-baseurl: "/reis" # the subpath of your site, e.g. /blog
+baseurl: '/reis' # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
