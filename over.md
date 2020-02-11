@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Over ons
 ---
 # Over ons
