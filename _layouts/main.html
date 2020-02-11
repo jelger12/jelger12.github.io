@@ -10,8 +10,17 @@ layout: default
       </div>
       <div class="author-name">{{site.author}}</div>
       <p>{{site.about-author}}</p>
+      <ul class="navigatie">
+        {% for page in site.pages %}
+          {% if page.category == "in-navigatie" %}
+            <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
     </div>
+
   </header> <!-- End Header -->
+  
   <footer>
     <section class="contact">
       <h3 class="contact-title">Contact me</h3>
