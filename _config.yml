@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "nl-NL"
 title                    : Anna en Jelger fietsen
 title_separator          : "-"
-subtitle                 : Vanaf maart 2020 fietsen wij van Europe naar het oosten.
+subtitle                 : Vanaf maart 2020 fietsen wij van Europa naar het oosten.
 name                     : "Jelger en Anna"
 description              : 
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -120,7 +120,7 @@ author:
       icon: "fas fa-fw fa-map-marker-alt"
       url: "https://www.polarsteps.com/JelgerAnna/2548506-de-zijderoute-op-de-fiets"
     - label: "Strava"
-      icon: "fab fa-strava"
+      icon: "fab fa-fw fa-strava"
       url: "https://www.strava.com/athletes/4127530"
 
 # Site Footer
@@ -280,7 +280,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: # true
       share: true
       related: true
