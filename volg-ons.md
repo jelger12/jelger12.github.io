@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Volg ons
+author_profile: true
 ---
 
 We houden onze reis bij in Polarsteps. Hier proberen we af en toe foto's en video's te plaatsen. Hieronder staat een kaartje.

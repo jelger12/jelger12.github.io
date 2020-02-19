@@ -113,12 +113,15 @@ author:
   location         : #"Amsterdam"
   email            :
   links:
-#    - label: "Email"
-#      icon: "fas fa-fw fa-envelope-square"
-#      url: mailto:reis@jelgervanzaane.nl
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:reis@jelgervanzaane.nl
     - label: "Polarsteps"
       icon: "fas fa-fw fa-map-marker-alt"
       url: "https://www.polarsteps.com/JelgerAnna/2548506-de-zijderoute-op-de-fiets"
+    - label: "Strava"
+      icon: "fab fa-strava"
+      url: "https://www.strava.com/athletes/4127530"
 
 # Site Footer
 footer:
