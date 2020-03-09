@@ -3,8 +3,7 @@ layout: single
 title: Volg ons
 author_profile: true
 ---
-
-We houden onze reis bij in Polarsteps. Hier proberen we af en toe foto's en video's te plaatsen. Bekijk onze avonturen op [Polarsteps](https://www.polarsteps.com/JelgerAnna/2548506-de-zijderoute-op-de-fiets) 
-
-## Strava tracks
-We proberen ook alle gpx-tracks op [Strava](https://www.strava.com/athletes/4127530) te plaatsen. 
+Op onderstaande kaartje kan je zien waar we op dit moment zijn
+{% raw %}
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" src="https://spotwalla.com/tripViewer.php?id=21ef85e6691a928587"></iframe>
+{% endraw %}
