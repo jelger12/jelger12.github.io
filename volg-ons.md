@@ -13,7 +13,7 @@ marginheight="0"
 height="600"
 width="100%"
 scrolling='false'
-src="https://spotwalla.com/tripViewer.php?id=21ef85e6691a928587&showInfo=no">
+src="https://maps.findmespot.com/s/3TVJ">
 De kaart kan niet getoond worden. 
 </iframe>
 {% endraw %}
