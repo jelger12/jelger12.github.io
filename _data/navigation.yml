@@ -2,3 +2,5 @@
 main:
   - title: "Berichten"
     url: /blog/
+  - title: "Volg ons"
+    url: /volg-ons/
