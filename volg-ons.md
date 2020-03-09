@@ -3,7 +3,7 @@ layout: single
 title: Volg ons
 author_profile: true
 ---
-Op onderstaande kaartje kan je zien waar we op dit moment zijn
+Op onderstaande kaartje kan je zien waar we zijn geweest, en waar we op dit moment ongeveer zijn.
 {% raw %}
 <iframe
 frameborder="no" 
