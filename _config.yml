@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "nl-NL"
-title                    : Anna en Jelger fietsen
+title                    : Jelger van Zaane
 title_separator          : "-"
-subtitle                 : Vanaf maart 2020 fietsen wij van Europa naar het oosten.
-name                     : "Jelger en Anna"
+subtitle                 : 
+name                     : "Jelger"
 description              : 
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -107,21 +107,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jelger en Anna"
-  avatar           : "/assets/images/anna-jelger.jpg"
+  name             : "Jelger"
+  avatar           : 
   bio              : 
   location         : #"Amsterdam"
   email            :
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:reis@jelgervanzaane.nl
-    - label: "Polarsteps"
-      icon: "fas fa-fw fa-map-marker-alt"
-      url: "https://www.polarsteps.com/JelgerAnna/2548506-de-zijderoute-op-de-fiets"
-    - label: "Strava"
-      icon: "fab fa-fw fa-strava"
-      url: "https://www.strava.com/athletes/4127530"
+
 
 # Site Footer
 footer:
